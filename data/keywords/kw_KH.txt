@@ -1,3 +1,6 @@
+thời tiết
+tradingview
+forex factory
 michael carrick
 iphone
 nvidia ceo jensen huang
@@ -11,7 +14,6 @@ chelsea
 palace vs liverpool
 sunderland vs chelsea
 bomb threat
-forex factory
 xoso
 fraud
 weather
@@ -96,5 +98,3 @@ livescore
 barcelona vs psg
 kim jong un
 psg vs barcelona
-delta
-gdt
